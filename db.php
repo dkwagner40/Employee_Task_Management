@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "task_managment_system";
-$password = "Lmbas123";
+$password = "";
 $dbname = "task_management_system";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
